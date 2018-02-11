@@ -1,0 +1,13 @@
+{
+  "zh-cn": {
+    "title": "登录",
+    "subtitle": "使用您的南外人账户登录",
+    "username": "用户名/邮箱/国际手机号",
+    "password": "密码",
+    "submit": "登录",
+    "remember": "保持登录状态",
+    "reg": "注册",
+    "reset": "找回密码",
+    "required": "本项必填"
+  }
+}
