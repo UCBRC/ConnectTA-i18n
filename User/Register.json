@@ -2,7 +2,7 @@
   "zh":{
     "title": "注册",
     "subtitle": "NFLS.IO 新用户注册",
-    "phone": "手机号",
+    "phone": "手机",
     "country": "国家",
     "email": "邮箱",
     "send": "发送",
@@ -19,8 +19,11 @@
     "i-agree": "我同意以下协议：",
     "username": "用户名",
     "password": "密码",
-    "password-repeat": "重复密码"
-
+    "password-repeat": "重复密码",
+    "register": "注册",
+    "succeeded": "注册成功",
+    "send-succeeded": "动态码发送成功",
+    "not-agree": "您必须同意相关协议。"
   },
   "jp":{
     "title": "新規登録",
@@ -43,6 +46,10 @@
     "i-agree": "下記の規約に同意：",
     "username": "ニックネーム",
     "password": "パスワード",
-    "password-repeat": "パスワードの再入力"
+    "password-repeat": "パスワードの再入力",
+    "register": "登録",
+    "succeeded": "正常に登録",
+    "send-succeeded": "送信成功",
+    "not-agree": "あなたは条件に同意する必要があります。"
   }
 }
