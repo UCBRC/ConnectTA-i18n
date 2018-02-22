@@ -1,0 +1,48 @@
+{
+  "zh":{
+    "title": "注册",
+    "subtitle": "NFLS.IO 新用户注册",
+    "phone": "手机号",
+    "country": "国家",
+    "email": "邮箱",
+    "send": "发送",
+    "code": "动态码",
+    "phone-invalid": "无效的手机号码",
+    "email-invalid": "无效的邮箱地址",
+    "username-too-long": "用户名太长",
+    "username-too-short": "同户名太短",
+    "password-too-long": "密码最大长度20",
+    "password-too-long": "密码最小长度8",
+    "password-mismatch": "两次密码输入不一致，请重新输入。",
+    "tos": "NFLS.IO 用户协议",
+    "privacy": "NFLS.IO 隐私权协议",
+    "i-agree": "我同意以下协议：",
+    "username": "用户名",
+    "password": "密码",
+    "password-repeat": "重复密码"
+
+  },
+  "jp":{
+    "title": "新規登録",
+    "subtitle": "NFLS.IO 会員登録",
+    "phone": "携帯電話",
+    "country": "国家",
+    "email": "メールアドレス",
+    "send": "センド",
+    "required": "入力必須項目です。",
+    "code": "認証コード",
+    "phone-invalid": "無効な携帯電話番号",
+    "email-invalid": "無効なメールアドレスです",
+    "username-too-long": "ニックネームが長",
+    "username-too-short": "ニックネームが短",
+    "password-too-long": "パスワードの最大長20",
+    "password-too-short": "パスワードの最小長8",
+    "password-mismatch": "パスワードが一致しません。もう一度入力してください。",
+    "tos": "NFLS.IO 利用規約",
+    "privacy": "NFLS.IO プライバシーポリシー",
+    "i-agree": "下記の規約に同意：",
+    "username": "ニックネーム",
+    "password": "パスワード",
+    "password-repeat": "パスワードの再入力"
+  }
+}
