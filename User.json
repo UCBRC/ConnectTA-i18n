@@ -34,7 +34,7 @@
     "registered": "注册成功",
     "logged-in": "登陆成功",
     "resetted": "密码重置成功",
-    "send-succeeded": "动态码发送成功",
+    "send-succeeded": "发送成功",
     "not-agree": "您必须同意相关协议",
     "cas-hours": "\"创意、行动、服务\"小时数",
     "cas-prompt": "您可以通过游戏来赚取本积分",
@@ -46,7 +46,11 @@
     "edit-avatar-prompt": "如果要调整的麻烦自己本地裁一下啦<br/>正常情况下是取最大且最居中的正方形<br/><del>其实是我懒得写个页面让你们裁</del>",
     "avatar": "头像",
     "not-binded": "未绑定",
-    "account-info": "我的账户信息"
+    "account-info": "我的账户信息",
+    "not-realname": "您尚未完成实名认证，将无法进行发送消息等操作！",
+    "reply": "回复",
+    "send-failed": "发送失败，请检查您是否完成实名认证，或是接受用户是否存在！",
+    "receiver": "收件人ID"
 
   },
   "jp":{
