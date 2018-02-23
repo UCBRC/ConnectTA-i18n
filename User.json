@@ -1,21 +1,27 @@
 {
-  "zh":{
+  "zh": {
+    "login-title": "登录",
+    "login-subtitle": "使用您的南外人账户登录",
+    "login-username": "用户名/邮箱/国际手机号",
     "register-title": "注册",
     "register-subtitle": "NFLS.IO 新用户注册",
     "reset-title": "重置密码",
     "reset-subtitle": "通过手机或邮箱重置您的账户密码",
+    "remember": "保持登录状态",
     "phone": "手机",
     "country": "国家",
     "email": "邮箱",
     "send": "发送",
     "code": "动态码",
+    "required": "此项必填",
     "phone-invalid": "无效的手机号码",
     "email-invalid": "无效的邮箱地址",
     "username-too-long": "用户名太长",
     "username-too-short": "同户名太短",
     "password-too-long": "密码最大长度20",
     "password-too-long": "密码最小长度8",
-    "password-mismatch": "两次密码输入不一致，请重新输入。",
+    "password-mismatch": "两次密码输入不一致，请重新输入",
+    "password-incorrect": "密码或用户名不正确",
     "tos": "NFLS.IO 用户协议",
     "privacy": "NFLS.IO 隐私权协议",
     "i-agree": "我同意以下协议：",
@@ -25,9 +31,11 @@
     "login": "登陆",
     "reset": "重置密码",
     "register": "注册",
-    "succeeded": "注册成功",
+    "registered": "注册成功",
+    "logged-in": "登陆成功",
+    "resetted": "密码重置成功",
     "send-succeeded": "动态码发送成功",
-    "not-agree": "您必须同意相关协议。"
+    "not-agree": "您必须同意相关协议"
   },
   "jp":{
     "register-title": "新規登録",
@@ -51,7 +59,7 @@
     "username": "ニックネーム",
     "password": "パスワード",
     "password-repeat": "パスワードの再入力",
-    "register": "登録",
+    "registered": "登録",
     "succeeded": "正常に登録",
     "send-succeeded": "送信成功",
     "not-agree": "あなたは条件に同意する必要があります。"
