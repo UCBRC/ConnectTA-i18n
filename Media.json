@@ -1,5 +1,24 @@
 {
   "zh":{
-    "view-full-tip": "使用右上角菜单栏可查看全部照片！"
+    "view-full-tip": "使用右上角菜单栏可查看全部照片！",
+    "comment-not-realname": "只有实名认证后的账户才能发表评论！",
+    "photo-not-realname": "实名认证后即可查看更多照片！",
+    "webp-not-supported": "<strong>您的浏览器不支持WebP格式图片的渲染。</strong>正在使用备用渲染方案，可能会无法正常显示，仅前五张将会被显示。",
+    "write-comment": "撰写评论",
+    "write-comment-tips": "请自觉遵守相关法律法规，严禁发布色情、反动、暴力等内容",
+    "write-comment-placeholder": "你对这些照片的看法",
+    "submit": "提交",
+    "cancel": "取消",
+    "like": "点赞",
+    "dislike": "取消点赞",
+    "comment": "评论",
+    "show-all": "显示所有照片",
+    "show-featured": "仅显示精选照片",
+    "debug": "调试",
+    "comment-succeeded": "评论成功",
+    "comment-failed": "评论失败，请检查您填写的内容是否正确",
+    "like-succeeded": "点赞成功",
+    "dislike-succeeded": "取消点赞成功",
+    "admin-delete": "删除"
   }
 }
