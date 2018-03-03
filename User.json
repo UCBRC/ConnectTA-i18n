@@ -51,9 +51,8 @@
     "reply": "回复",
     "send-failed": "发送失败，请检查您是否完成实名认证，或是接受用户是否存在！",
     "receiver": "收件人ID"
-
   },
-  "jp":{
+  "jp": {
     "register-title": "新規登録",
     "register-subtitle": "NFLS.IO 会員登録",
     "phone": "携帯電話",
