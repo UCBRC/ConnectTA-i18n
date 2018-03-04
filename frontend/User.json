@@ -19,7 +19,7 @@
     "username-too-long": "用户名太长",
     "username-too-short": "同户名太短",
     "password-too-long": "密码最大长度20",
-    "password-too-long": "密码最小长度8",
+    "password-too-short": "密码最小长度8",
     "password-mismatch": "两次密码输入不一致，请重新输入",
     "password-incorrect": "密码或用户名不正确",
     "tos": "NFLS.IO/南外人 用户协议",
