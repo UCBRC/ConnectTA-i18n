@@ -28,6 +28,8 @@
     "rank": "排名",
     "time": "时间",
     "no-featured": "没有精选照片",
-    "no-featured-text": "此相册没有精选照片，您已自动切换至查看所有照片"
+    "no-featured-text": "此相册没有精选照片，您已自动切换至查看所有照片",
+    "total-count": "总计照片数：",
+    "featured-count": "精选数量："
   }
 }
