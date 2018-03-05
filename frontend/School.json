@@ -24,6 +24,7 @@
     "done": "完成",
     "confirm": "确认",
     "help": "帮助",
+    "error": "错误",
     "announcement": "公告",
     "remove": "删除本黑板",
     "user-list": "成员列表",
@@ -43,7 +44,20 @@
     "upload-failed": "文件上传失败",
     "add-succeeded": "添加学生成功！",
     "send-succeeded": "发送成功",
-    "send-failed": "发送失败"
+    "send-failed": "发送失败",
+    "loading": "加载中",
+    "expire": "剩余有效时间：",
+    "expire-hint": "。超出时间后请返回Dashboard并重新进入。",
+    "bulk": "批量下载",
+    "current-file": "当前文件：",
+    "bulk-hint": "下载过程中，请保持网络畅通，并请不要做任何无关操作！",
+    "bulk-error": "下载出错",
+    "not-verified": "请确保您已登录您的账户并通过实名认证。如果实名认证已提交，请耐心等待审核！",
+    "progress": "进度：",
+    "developing": "开发中",
+    "developing-hint": "此功能正在开发中",
+    "loading-hint": "如果长期卡住，请考虑刷新或更换浏览器。",
+    "pp-title": "资源中心"
 
   }
 }
