@@ -2,7 +2,7 @@
   "zh":{
     "current-blackboard": "我要看这块黑板：",
     "teacher": "老师：",
-    "calender": "即将发生",
+    "calender": "即将发生的事件",
     "deadline": "截止日期",
     "attachment": "附件",
     "unreleased": "未发布",
@@ -23,6 +23,7 @@
     "search": "搜索",
     "done": "完成",
     "confirm": "确认",
+    "help": "帮助",
     "announcement": "公告",
     "remove": "删除本黑板",
     "user-list": "成员列表",
@@ -36,7 +37,13 @@
     "create-new": "创建一个新黑板",
     "removal-title": "删除确认",
     "naming": "起个名字吧",
-    "removal": "您确认要删除当前黑板吗？您所有上传的的任务都将被删除。此操作不可逆。"
+    "removal": "您确认要删除当前黑板吗？您所有上传的的任务都将被删除。此操作不可逆。",
+    "release-succeeded": "发布成功",
+    "release-failed":"你的公告中存在一些问题，请检查每项是否填写正确",
+    "upload-failed": "文件上传失败",
+    "add-succeeded": "添加学生成功！",
+    "send-succeeded": "发送成功",
+    "send-failed": "发送失败"
 
   }
 }
