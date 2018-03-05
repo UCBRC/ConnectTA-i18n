@@ -14,17 +14,20 @@
     "blackboard": "黑板",
     "vote": "投票",
     "realname": "实名",
-    "directory": "校友录",
+    "directory": "校友",
     "game": "游戏",
     "gallery": "相册",
     "forum": "论坛",
     "wiki": "百科",
     "development": "开发",
-    "managebac": "ManageBac(镜像)",
+    "managebac": "MB(IB)",
     "about": "关于",
     "admin": "管理",
     "not-login": "未登录",
-    "error": "网络或服务器错误，请稍后重试，您的更改可能未被保存"
-
+    "error": "网络或服务器错误，请稍后重试，您的更改可能未被保存",
+    "in-school": "在校",
+    "graduate": "毕业",
+    "media": "影音",
+    "external": "关联"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "zh": {
+    "status": "我的实名认证状态",
+    "verified-user": "实名用户",
+    "verified-time": "验证时间",
+    "expired-time": "过期时间",
+    "chineseName": "中文名",
+    "englishName": "英文名",
+    "new-form": "填写新的表格",
+    "unsubmitted": "您有未提交或待审核的表格"
+  }
+}
