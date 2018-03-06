@@ -25,6 +25,13 @@
     "save": "保存",
     "submit": "提交",
     "cancel": "取消本次申请",
-    "readonly": "此验证只读"
+    "readonly": "此验证只读",
+    "submit-confirm": "您确定要提交吗",
+    "submit-confirm-text": "除了取消审核，审核期间您将无法修改您所提交的内容。",
+    "form-error": "表格内容填写错误",
+    "confirm": "确认",
+    "save-succeeded": "保存成功，您可以提交了",
+    "submit-succeeded": "提交成功，请等待审核！",
+    "cancel-succeeded": "本次验证已被取消，您可以重新提交了。"
   }
 }
