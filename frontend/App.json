@@ -28,6 +28,9 @@
     "in-school": "在校",
     "graduate": "毕业",
     "media": "影音",
-    "external": "关联"
+    "external": "关联",
+    "console": "旧版后台",
+    "preference": "静态变量",
+    "upload": "资源上传"
   }
 }

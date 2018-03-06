@@ -7,6 +7,18 @@
     "chineseName": "中文名",
     "englishName": "英文名",
     "new-form": "填写新的表格",
-    "unsubmitted": "您有未提交或待审核的表格"
+    "unsubmitted": "您有未提交或待审核的表格",
+    "my-record": "我的实名认证记录",
+    "error": "错误",
+    "login-required": "请先登录您的账户！",
+    "un-metered": "无期限",
+    "status-0": "未提交",
+    "status-1": "待审核",
+    "status-2": "已取消",
+    "status-3": "审核中",
+    "status-4": "被退回",
+    "status-5": "已通过",
+    "status-6": "已过期",
+    "submit-time": "提交时间："
   }
 }
