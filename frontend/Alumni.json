@@ -19,6 +19,12 @@
     "status-4": "被退回",
     "status-5": "已通过",
     "status-6": "已过期",
-    "submit-time": "提交时间："
+    "submit-time": "提交时间：",
+    "required": "本项必填",
+    "incorrect": "填写的内容不正确",
+    "save": "保存",
+    "submit": "提交",
+    "cancel": "取消本次申请",
+    "readonly": "此验证只读"
   }
 }
