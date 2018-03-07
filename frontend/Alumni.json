@@ -32,6 +32,7 @@
     "confirm": "确认",
     "save-succeeded": "保存成功，您可以提交了",
     "submit-succeeded": "提交成功，请等待审核！",
-    "cancel-succeeded": "本次验证已被取消，您可以重新提交了。"
+    "cancel-succeeded": "本次验证已被取消，您可以重新提交了。",
+    "realname": "实名认证"
   }
 }
