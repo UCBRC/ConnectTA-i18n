@@ -1,0 +1,19 @@
+{
+  "zh": {
+    "feedback": "反馈",
+    "developing": "开发中",
+    "version-control": "版本控制信息",
+    "commits-prompt": "仅显示最近10条修改",
+    "developer-blog": "开发组博客",
+    "blog-hqy": "胡清阳的博客",
+    "blog-xzd": "谢祖地的博客",
+    "blog-mrtunnel": "隧道先生的博客",
+    "team": "团队",
+    "legend": "图例",
+    "logo": "界面图标设计",
+    "photography": "摄影摄像",
+    "game": "游戏开发",
+    "invest": "投资人",
+    "responsible": "总负责"
+  }
+}
