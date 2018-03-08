@@ -22,7 +22,8 @@
     "password-too-long": "密码最大长度20",
     "password-too-short": "密码最小长度8",
     "password-mismatch": "两次密码输入不一致，请重新输入",
-    "password-incorrect": "密码或用户名不正确",
+    "password-incorrect": "用户名或密码不正确",
+    "password-only-incorrect": "密码不正确",
     "tos": "NFLS.IO/南外人 用户协议",
     "privacy": "NFLS.IO/南外人 隐私权协议",
     "i-agree": "我同意用户协议及隐私权协议",
@@ -45,6 +46,7 @@
     "logged-in": "登陆成功",
     "resetted": "密码重置成功",
     "send-succeeded": "发送成功",
+    "operation-succeeded": "操作成功",
     "not-agree": "您必须同意相关协议",
     "cas-hours": "\"创意、行动、服务\"小时数",
     "cas-prompt": "您可以通过游戏来赚取本积分",
@@ -68,7 +70,10 @@
     "notice-1": "1. 手机和邮箱至少需要绑定一个。在只有一个绑定的情况下您将无法进行解除绑定的操作",
     "notice-2": "2. 在使用百科或论坛功能前，您必须绑定您的邮箱，并请不要修改，以免绑定失效",
     "notice-3": "3. 隐私设置仅针对实名用户有效",
-    "only-unbind": "仅解除绑定"
+    "only-unbind": "仅解除绑定",
+    "info-title": "用户信息",
+    "message-title": "消息",
+    "security-title": "安全"
   },
   "jp": {
     "register-title": "新規登録",
