@@ -72,7 +72,15 @@
     "form-location": "常驻地点",
     "form-onlineContact": "在线联系方式",
     "form-more": "还有什么需要我们注意的吗？",
-    "form-remark": "备注"
-
+    "form-remark": "备注",
+    "action-review": "审核",
+    "action-with-limit": "接受有期限",
+    "action-without-limit": "接受无期限",
+    "action-reject": "拒绝",
+    "title-form": "实名认证 - 表格填写",
+    "title-auth": "实名认证",
+    "title-directory": "在线校友录",
+    "developing": "开发中",
+    "developing-hint": "此功能正在开发中"
   }
 }
