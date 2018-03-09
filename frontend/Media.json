@@ -13,6 +13,7 @@
     "confirm": "确认",
     "cancel": "取消",
     "like": "点赞",
+    "known": "我知道了",
     "dislike": "取消点赞",
     "comment": "评论",
     "show-all": "显示所有照片",
@@ -36,6 +37,7 @@
     "star-represent": "⭐️代表此相册包含精选内容",
     "rank-prompt": "所有相册基于时间及优先度算法排序",
     "license-prompt": "所有照片采用<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>。转载或二次使用时务必注明原地址！",
+    "license-short": "我们的照片采用CC BY-NC-SA 4.0协议授权。",
     "title-album": "相册",
     "title-game": "游戏列表",
     "title-gallery": "相册"

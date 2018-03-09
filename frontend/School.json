@@ -11,7 +11,7 @@
     "new-note": "新的提醒",
     "google-docs":"我们提供Google Docs无障碍服务，您可以通过本功能发送文档或是问卷。详情请见",
     "deadline-entry": "截止日期（留空为没有）",
-    "title-entry": "用于提示截止日期的小标题",
+    "title-entry": "用于提示截止日期的小标题（仅适用于有截止日期的提醒）",
     "releasing-date": "发布日期（留空或设置为过去为立即发布）",
     "submit": "提交",
     "cancel": "取消",
@@ -59,7 +59,8 @@
     "loading-hint": "如果长期卡住，请考虑刷新或更换浏览器。",
     "pp-title": "资源在线",
     "blackboard-title": "黑板",
-    "vote-title": "投票"
+    "vote-title": "投票",
+    "image-upload": "图片上传"
 
   }
 }
