@@ -61,7 +61,7 @@
     "account-info": "我的账户信息",
     "not-realname": "您尚未完成实名认证，将无法进行发送消息等操作！",
     "reply": "回复",
-    "send-failed": "发送失败，请检查您是否完成实名认证，或是接受用户是否存在！",
+    "send-failed": "发送失败，请检查您是否完成实名认证",
     "receiver": "收件人ID",
     "security-settings": "安全设置",
     "not-emailed": "请先绑定邮箱后再使用论坛或百科功能！",
