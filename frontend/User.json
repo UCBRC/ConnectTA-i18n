@@ -22,7 +22,6 @@
     "password-too-long": "密码最大长度20",
     "password-too-short": "密码最小长度8",
     "password-mismatch": "两次密码输入不一致，请重新输入",
-    "password-incorrect": "用户名或密码不正确",
     "password-only-incorrect": "密码不正确",
     "tos": "NFLS.IO/南外人 用户协议",
     "privacy": "NFLS.IO/南外人 隐私权协议",
