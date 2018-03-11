@@ -60,7 +60,8 @@
     "pp-title": "资源中心",
     "blackboard-title": "黑板",
     "vote-title": "投票",
-    "image-upload": "图片上传"
+    "image-upload": "图片上传",
+    "new-succeeded": "创建成功！请在顶部下拉菜单内选择您最新创建的黑板。"
 
   }
 }
