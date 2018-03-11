@@ -1,5 +1,5 @@
 {
-  "zh": {
+  "zh-cn": {
     "status": "我的实名认证状态",
     "verified-user": "实名用户",
     "verified-time": "验证时间",
@@ -81,6 +81,7 @@
     "title-auth": "实名认证",
     "title-directory": "在线校友录",
     "developing": "开发中",
-    "developing-hint": "此功能正在开发中"
+    "developing-hint": "此功能正在开发中",
+    "form-title": "实名认证 - 表格填写"
   }
 }
