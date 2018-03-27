@@ -62,7 +62,8 @@
     "vote-title": "投票",
     "image-upload": "图片上传",
     "new-succeeded": "创建成功！请在顶部下拉菜单内选择您最新创建的黑板。",
-    "clean-cache": "清除列表缓存"
+    "clean-cache": "清除列表缓存",
+    "no-chosen": "您没有选择任何文件"
 
   }
 }
