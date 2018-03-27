@@ -43,6 +43,8 @@ chinese = sortDict(yaml.load(open('backend/messages.zh.yaml')))
 english = yaml.load(open('backend/messages.en.yaml'))
 chineseObject = {}
 englishObject = {}
+if english is None:
+    english = []
 for (key, value) in chinese:
     chineseObject[key] = value
     if key in english:
@@ -50,8 +52,6 @@ for (key, value) in chinese:
     else:
         englishObject[key] = ""
 with io.open('backend/messages.zh.yaml', 'w', encoding='utf-8') as outfile:
-    data = json.dumps(chineseObject, ensure_ascii=False)
-    outfile.write(unicode(data))
+    yaml.dump(chineseObject, outfile, default_flow_style=False, allow_unicode=True)
 with io.open('backend/messages.en.yaml', 'w', encoding='utf-8') as outfile:
-    data = json.dumps(englishObject, ensure_ascii=False)
-    outfile.write(unicode(data))
+    yaml.dump(englishObject, outfile, default_flow_style=False, allow_unicode=True)
