@@ -5,7 +5,7 @@ alumni-auth-error-country-blank: 国家或地区无效
 alumni-auth-error-country-error: 常驻国家不正确
 alumni-auth-error-englishName: 英文名无效
 alumni-auth-error-gender-invalid: 性别无效
-alumni-auth-error-juniorClass-invalid: 高中入学班级无效
+alumni-auth-error-juniorClass-invalid: 初中入学班级无效
 alumni-auth-error-juniorClass-lowerBound: 初中入学班级太小
 alumni-auth-error-juniorClass-upperBound: 初中入学班级太大
 alumni-auth-error-juniorRegistration-lowerBound: 初中毕业年份无效
@@ -22,7 +22,7 @@ alumni-auth-error-university-blank: 大学信息无效
 blackboard-blank-name: 黑板名称为空
 blackboard-id-not-exists: 该黑板不存在
 cannot-send-notice: 截止日期不存在或已过去
-connot-send-to-itself: 不能给自己发信息
+cannot-send-to-itself: 不能给自己发信息
 content-blank: 内容为空
 email-not-bind: 您没有绑定邮箱
 empty-comment: 评论内容为空
