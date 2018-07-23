@@ -40,3 +40,7 @@ receiver-not-exist: 收件人不存在
 unfinished-form: 您有未提交或待审核的请求
 blank-search: 搜索内容为空
 anti-spider-enabled: 用户启用了反爬虫保护
+vote-not-enabled: 该投票未启用
+invalid-ticket: 票数据无效，请重试
+already-submit: 您已投票，请不要再次投
+not-eligible-to-vote: 您无权投票
