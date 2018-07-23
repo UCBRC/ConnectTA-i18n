@@ -38,7 +38,7 @@
     "zh-cn": {
         "about": "关于", 
         "admin": "管理",
-        "console": "旧版后台", 
+        "console": "旧版",
         "development": "开发", 
         "directory": "校友", 
         "drop-admin": "临时解除权限", 
@@ -58,7 +58,7 @@
         "media": "影音", 
         "message": "消息通知", 
         "not-login": "未登录", 
-        "preference": "静态变量",
+        "preference": "常量",
         "privacy": "隐私设置",
         "realname": "实名", 
         "recover-admin": "恢复权限", 
@@ -66,10 +66,11 @@
         "security": "账户安全", 
         "statuspage": "状态", 
         "support": "技术支持", 
-        "upload": "资源上传", 
+        "upload": "上传",
         "vote": "投票", 
         "wiki": "百科",
         "study": "划水(未开放)",
-        "other": "其它"
+        "other": "其它",
+        "notification": "通知"
     }
 }
