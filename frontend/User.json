@@ -120,7 +120,7 @@
         "password-repeat": "重复密码", 
         "password-too-long": "密码最大长度20", 
         "password-too-short": "密码最小长度8", 
-        "phone": "手机", 
+        "phone": "手机（仅限国内）",
         "phone-current": "当前手机", 
         "phone-invalid": "无效的手机号码", 
         "phone-new": "新的手机", 
