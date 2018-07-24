@@ -51,7 +51,7 @@
         "graduate": "毕业", 
         "homepage": "首页", 
         "in-school": "在校", 
-        "info": "个人信息", 
+        "info": "个人设置",
         "login": "登录", 
         "logout": "退出", 
         "managebac": "MB(IB)", 
@@ -69,7 +69,7 @@
         "upload": "上传",
         "vote": "投票", 
         "wiki": "百科",
-        "study": "划水(未开放)",
+        "study": "划水",
         "other": "其它",
         "notification": "通知"
     }

@@ -44,3 +44,4 @@ vote-not-enabled: 该投票未启用
 invalid-ticket: 票数据无效，请重试
 already-submit: 您已投票，请不要再次投
 not-eligible-to-vote: 您无权投票
+rate-limited: 请求频率过快，请稍后再试
