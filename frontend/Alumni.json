@@ -138,7 +138,8 @@
         "form-userStatus-1": "高中在读", 
         "form-userStatus-2": "大学在读", 
         "form-userStatus-3": "已工作", 
-        "form-userStatus-4": "在校老师", 
+        "form-userStatus-4": "在校老师",
+        "form-userStatus-5": "非南外学生",
         "form-workInfo": "工作信息", 
         "incorrect": "填写的内容不正确", 
         "login-required": "请先登录您的账户！", 
@@ -156,7 +157,8 @@
         "status-3": "审核中", 
         "status-4": "被退回", 
         "status-5": "已通过", 
-        "status-6": "已过期", 
+        "status-6": "已过期",
+        "status-7": "已通过（其他学校）",
         "submit": "提交", 
         "submit-confirm": "您确定要提交吗", 
         "submit-confirm-text": "除了取消审核，审核期间您将无法修改您所提交的内容。", 
@@ -168,6 +170,6 @@
         "un-metered": "无期限", 
         "unsubmitted": "您有未提交或待审核的表格", 
         "verified-time": "验证时间", 
-        "verified-user": "实名用户"
+        "verified-user": "南外实名用户"
     }
 }

@@ -71,6 +71,8 @@
         "wiki": "百科",
         "study": "划水",
         "other": "其它",
-        "notification": "通知"
+        "notification": "通知",
+        "user": "用户",
+        "overview": "概览"
     }
 }
