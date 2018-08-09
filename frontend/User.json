@@ -99,7 +99,7 @@
         "login": "登录",
         "login-subtitle": "使用您的南外人账户登录", 
         "login-title": "登录", 
-        "login-username": "用户名/邮箱/国际手机号",
+        "login-username": "用户名/邮箱/手机号（仅限国内）",
         "login-failed": "用户名或密码不正确",
         "message-title": "消息", 
         "not-agree": "您必须同意相关协议", 
