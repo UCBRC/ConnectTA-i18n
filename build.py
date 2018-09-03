@@ -8,7 +8,7 @@ from pprint import pprint
 
 def sortDict(dict):
     items = dict.items()
-    items.sort()
+    sorted(items)
     return items
 
 def generateJson(data):
@@ -32,15 +32,15 @@ def generateJson(data):
 for subdir, dir, files in os.walk("frontend"):
     print("Building frontend translations...")
     for file in files:
-        data = json.load(open('frontend/' + file))
+        data = json.load(open('frontend/' + file, encoding="utf8"))
         json_object = generateJson(data)
         with io.open('frontend/' + file, 'w', encoding='utf-8') as outfile:
             data = json.dumps(json_object, indent=4, sort_keys=True, ensure_ascii=False)
-            outfile.write(unicode(data))
+            outfile.write(str(data))
 # Backend
 print("Building backend translations...")
-chinese = sortDict(yaml.load(open('backend/messages.zh.yaml')))
-english = yaml.load(open('backend/messages.en.yaml'))
+chinese = sortDict(yaml.load(open('backend/messages.zh.yaml', encoding="utf8")))
+english = yaml.load(open('backend/messages.en.yaml', encoding="utf8"))
 chineseObject = {}
 englishObject = {}
 if english is None:
