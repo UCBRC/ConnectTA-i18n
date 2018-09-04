@@ -1,3 +1,4 @@
+already-submit: 您已投票，请不要再次投
 already-used: 邮箱或手机号不正确或是已被使用
 alumni-auth-error-birthday: 出生日期无效
 alumni-auth-error-chineseName: 中文名无效
@@ -19,8 +20,11 @@ alumni-auth-error-seniorClass-upperBound: 高中入学班级太大
 alumni-auth-error-seniorRegistration-lowerBound: 高中毕业年份无效
 alumni-auth-error-seniorSchool-invalid: 高中学校无效
 alumni-auth-error-university-blank: 大学信息无效
+anti-spider-enabled: 用户启用了反爬虫保护
+banned: 账户被封禁，请联系管理员
 blackboard-blank-name: 黑板名称为空
 blackboard-id-not-exists: 该黑板不存在
+blank-search: 搜索内容为空
 cannot-send-notice: 截止日期不存在或已过去
 cannot-send-to-itself: 不能给自己发信息
 content-blank: 内容为空
@@ -33,16 +37,12 @@ incorrect-captcha: 验证码不正确
 incorrect-code: 动态码不正确
 incorrect-phone-or-email: 邮箱或手机号不正确
 incorrect-username-or-password: 用户名或密码不正确
+invalid-ticket: 票数据无效，请重试
+not-eligible-to-vote: 您无权投票
 not-enough-points: 积分不足
 not-expired: 有未过期的验证请求，请检查您的手机，或稍后再试
 phone-not-bind: 您没有绑定手机
+rate-limited: 请求频率过快，请稍后再试
 receiver-not-exist: 收件人不存在
 unfinished-form: 您有未提交或待审核的请求
-blank-search: 搜索内容为空
-anti-spider-enabled: 用户启用了反爬虫保护
 vote-not-enabled: 该投票未启用
-invalid-ticket: 票数据无效，请重试
-already-submit: 您已投票，请不要再次投
-not-eligible-to-vote: 您无权投票
-rate-limited: 请求频率过快，请稍后再试
-banned: 账户被封禁，请联系管理员

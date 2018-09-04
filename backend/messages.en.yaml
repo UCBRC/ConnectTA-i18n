@@ -1,40 +1,48 @@
+already-submit: ''
 already-used: 'Phone number or email address is inappropriate or already used '
-alumni-auth-error-birthday: 'Invalid birthday'
-alumni-auth-error-chineseName: 'Invalid chinese name'
-alumni-auth-error-country-blank: 'Invalid country or region'
-alumni-auth-error-country-error: 'Inappropiate country'
-alumni-auth-error-englishName: 'Invalid english name'
-alumni-auth-error-gender-invalid: 'Gender is invalid'
-alumni-auth-error-juniorClass-invalid: 'Invalid junior class'
-alumni-auth-error-juniorClass-lowerBound: 'Junior class number is too small'
-alumni-auth-error-juniorClass-upperBound: 'Junior class number is too large'
-alumni-auth-error-juniorRegistration-lowerBound: 'Invalid date of graduation'
-alumni-auth-error-juniorSchool-invalid: 'Invalid junior school'
-alumni-auth-error-location-blank: 'Invalid location'
-alumni-auth-error-major-blank: 'Invalid working info'
-alumni-auth-error-personalInfo-blank: 'Invalid personal info'
-alumni-auth-error-seniorClass-invalid: 'Invalid senior class'
-alumni-auth-error-seniorClass-lowerBound: 'Senior class number is too small'
-alumni-auth-error-seniorClass-upperBound: 'Senior class number is too large'
-alumni-auth-error-seniorRegistration-lowerBound: 'Invalid date of graduation'
-alumni-auth-error-seniorSchool-invalid: 'Invalid senior school'
-alumni-auth-error-university-blank: 'Invalid university'
-blackboard-blank-name: 'Blank blackboard name'
-blackboard-id-not-exists: 'Blackboard ID does not exist'
-cannot-send-notice: 'DDL is past or does not exist'
-cannot-send-to-itself: 'Cannot send to yourself'
-content-blank: 'Blank content'
-email-not-bind: 'Email is not binded'
-empty-comment: 'Empty comment'
-illegal-blackboard-id: 'Inapproriate blackboard ID'
-illegal-password: 'Password strength is below standard, please modify'
-illegal-username: 'Username is invalid'
-incorrect-captcha: 'Incorrect captcha'
-incorrect-code: 'Incorrect code'
-incorrect-phone-or-email: 'Incorrect phone number or email address'
-incorrect-username-or-password: 'Incorrect username or password'
-not-enough-points: 'Not enough points'
+alumni-auth-error-birthday: Invalid birthday
+alumni-auth-error-chineseName: Invalid chinese name
+alumni-auth-error-country-blank: Invalid country or region
+alumni-auth-error-country-error: Inappropiate country
+alumni-auth-error-englishName: Invalid english name
+alumni-auth-error-gender-invalid: Gender is invalid
+alumni-auth-error-juniorClass-invalid: Invalid junior class
+alumni-auth-error-juniorClass-lowerBound: Junior class number is too small
+alumni-auth-error-juniorClass-upperBound: Junior class number is too large
+alumni-auth-error-juniorRegistration-lowerBound: Invalid date of graduation
+alumni-auth-error-juniorSchool-invalid: Invalid junior school
+alumni-auth-error-location-blank: Invalid location
+alumni-auth-error-major-blank: Invalid working info
+alumni-auth-error-personalInfo-blank: Invalid personal info
+alumni-auth-error-seniorClass-invalid: Invalid senior class
+alumni-auth-error-seniorClass-lowerBound: Senior class number is too small
+alumni-auth-error-seniorClass-upperBound: Senior class number is too large
+alumni-auth-error-seniorRegistration-lowerBound: Invalid date of graduation
+alumni-auth-error-seniorSchool-invalid: Invalid senior school
+alumni-auth-error-university-blank: Invalid university
+anti-spider-enabled: ''
+banned: ''
+blackboard-blank-name: Blank blackboard name
+blackboard-id-not-exists: Blackboard ID does not exist
+blank-search: ''
+cannot-send-notice: DDL is past or does not exist
+cannot-send-to-itself: Cannot send to yourself
+content-blank: Blank content
+email-not-bind: Email is not binded
+empty-comment: Empty comment
+illegal-blackboard-id: Inapproriate blackboard ID
+illegal-password: Password strength is below standard, please modify
+illegal-username: Username is invalid
+incorrect-captcha: Incorrect captcha
+incorrect-code: Incorrect code
+incorrect-phone-or-email: Incorrect phone number or email address
+incorrect-username-or-password: Incorrect username or password
+invalid-ticket: ''
+not-eligible-to-vote: ''
+not-enough-points: Not enough points
 not-expired: ''
-phone-not-bind: 'Phone number has not been binded'
-receiver-not-exist: 'Invalid receiver'
+phone-not-bind: Phone number has not been binded
+rate-limited: ''
+receiver-not-exist: Invalid receiver
 unfinished-form: ''
+vote-not-enabled: ''

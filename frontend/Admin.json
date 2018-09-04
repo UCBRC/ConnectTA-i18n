@@ -1,24 +1,24 @@
 {
     "en": {
-        "address": "", 
-        "file": "", 
-        "submit": "", 
-        "target-server": "", 
-        "upload-failed": "", 
-        "upload-markdown": "", 
-        "upload-prompt": "", 
-        "upload-title": "", 
+        "address": "",
+        "file": "",
+        "submit": "",
+        "target-server": "",
+        "upload-failed": "",
+        "upload-markdown": "",
+        "upload-prompt": "",
+        "upload-title": "",
         "upload-warning": ""
-    }, 
+    },
     "zh-cn": {
-        "address": "地址：", 
-        "file": "文件", 
-        "submit": "提交", 
-        "target-server": "目标服务器是", 
-        "upload-failed": "上传失败", 
-        "upload-markdown": "Markdown可将上传后得到的地址手动粘贴至添加图片的对话框内，无需添加或修改任何内容", 
-        "upload-prompt": "仅供图片、游戏类资源使用。目前没有进度条，上传时请耐心等待", 
-        "upload-title": "资源上传", 
+        "address": "地址：",
+        "file": "文件",
+        "submit": "提交",
+        "target-server": "目标服务器是",
+        "upload-failed": "上传失败",
+        "upload-markdown": "Markdown可将上传后得到的地址手动粘贴至添加图片的对话框内，无需添加或修改任何内容",
+        "upload-prompt": "仅供图片、游戏类资源使用。目前没有进度条，上传时请耐心等待",
+        "upload-title": "资源上传",
         "upload-warning": "注意：此处上传的文件访问时不需要鉴权。您的文件可以被任何拥有链接的人访问及下载。此上传空间有定期垃圾清理，未在网页上引用的将会在一定时间后被删除。"
     }
 }

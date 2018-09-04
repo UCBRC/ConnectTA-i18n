@@ -1,12 +1,12 @@
 {
     "en": {
-        "new-forum": "", 
-        "new-wiki": "", 
+        "new-forum": "",
+        "new-wiki": "",
         "title": ""
-    }, 
+    },
     "zh-cn": {
-        "new-forum": "最新论坛帖子", 
-        "new-wiki": "最新百科词条", 
+        "new-forum": "最新论坛帖子",
+        "new-wiki": "最新百科词条",
         "title": "首页"
     }
 }
