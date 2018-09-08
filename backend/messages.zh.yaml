@@ -37,6 +37,7 @@ incorrect-captcha: 验证码不正确
 incorrect-code: 动态码不正确
 incorrect-phone-or-email: 邮箱或手机号不正确
 incorrect-username-or-password: 用户名或密码不正确
+incorrect-password: 密码不正常
 invalid-ticket: 票数据无效，请重试
 not-eligible-to-vote: 您无权投票
 not-enough-points: 积分不足
@@ -46,3 +47,4 @@ rate-limited: 请求频率过快，请稍后再试
 receiver-not-exist: 收件人不存在
 unfinished-form: 您有未提交或待审核的请求
 vote-not-enabled: 该投票未启用
+invalid-client: 无效的客户端，请检查更新
