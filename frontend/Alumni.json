@@ -173,6 +173,7 @@
         "un-metered": "无期限",
         "unsubmitted": "您有未提交或待审核的表格",
         "verified-time": "验证时间",
-        "verified-user": "南外实名用户"
+        "verified-user": "南外实名用户",
+        "validation-error": "表格填写有误，请按照页首的提示，更正表格中红色标注的内容。"
     }
 }
