@@ -22,7 +22,7 @@ alumni-auth-error-seniorRegistration-lowerBound: 高中毕业年份无效
 alumni-auth-error-seniorSchool-invalid: 高中学校无效
 alumni-auth-error-university-blank: 大学信息无效
 anti-spider-enabled: 用户启用了反爬虫保护
-banned: 账户被封禁，请联系管理员
+banned: 账户被禁，原因：在公开场合发表令人不适的言论或图片
 blackboard-blank-name: 黑板名称为空
 blackboard-id-not-exists: 该黑板不存在
 blank-search: 搜索内容为空
