@@ -5,6 +5,7 @@ alumni-auth-error-birthday: 出生日期无效
 alumni-auth-error-chineseName: 中文名无效
 alumni-auth-error-country-blank: 国家或地区无效
 alumni-auth-error-country-error: 常驻国家不正确
+alumni-auth-error-either-englishName-or-chineseName: 请填写中文名或英文名
 alumni-auth-error-englishName: 英文名无效
 alumni-auth-error-gender-invalid: 性别无效
 alumni-auth-error-juniorClass-invalid: 初中入学班级无效
@@ -21,6 +22,7 @@ alumni-auth-error-seniorClass-upperBound: 高中入学班级太大
 alumni-auth-error-seniorRegistration-lowerBound: 高中毕业年份无效
 alumni-auth-error-seniorSchool-invalid: 高中学校无效
 alumni-auth-error-university-blank: 大学信息无效
+alumni-auth-error-source-invalid: 请填写来源
 anti-spider-enabled: 用户启用了反爬虫保护
 banned: 账户被禁，原因：在公开场合发表令人不适的言论或图片。请不要尝试使用他人账户，否则会被连带处理。
 blackboard-blank-name: 黑板名称为空
