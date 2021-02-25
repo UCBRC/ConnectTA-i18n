@@ -1,38 +1,8 @@
 {
     "en": {
-        "about-title": "About",
-        "blog-hqy": "",
-        "blog-mrtunnel": "",
-        "blog-xzd": "",
-        "commits-prompt": "",
-        "developer-blog": "",
-        "developing": "",
-        "feedback": "",
-        "game": "",
-        "invest": "",
-        "legend": "",
-        "logo": "",
-        "photography": "",
-        "responsible": "",
-        "team": "",
-        "version-control": ""
+
     },
     "zh-cn": {
-        "about-title": "关于",
-        "blog-hqy": "胡清阳的博客",
-        "blog-mrtunnel": "隧道先生的博客",
-        "blog-xzd": "谢祖地的博客",
-        "commits-prompt": "仅显示最近10条修改",
-        "developer-blog": "开发组博客",
-        "developing": "开发中",
-        "feedback": "反馈",
-        "game": "游戏开发",
-        "invest": "投资人",
-        "legend": "图例",
-        "logo": "界面图标设计",
-        "photography": "摄影摄像",
-        "responsible": "总负责",
-        "team": "团队",
-        "version-control": "版本控制信息"
+
     }
 }
